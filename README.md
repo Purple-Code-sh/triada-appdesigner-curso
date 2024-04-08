@@ -1,10 +1,10 @@
 
-## Para usar el codigo de matlab
+## Para usar el codigo de MATLAB
 * Solo descarga el archivo llamado app10.
-* Una vez que esté en tu computadora, abre matlabe
-* Desde matlab busca el archivo que descargaste y trata de abrirlo. Eso basta para que se abra la aplicacion y puedas usarla
+* Una vez que esté en tu computadora, abre matlab.
+* Desde matlab busca el archivo que descargaste y trata de abrirlo. Eso basta para que se abra la aplicacion y puedas usarla.
 
-## Para el codigo del sensor
+## Para el codigo del sensor AS5600
 * Asegurate de tener configurado el ArduinoIDE para usar ESP32.
     * Para ello pega los siguientes links en la parte de: File > Preferences > Additional boards manager URLs
         http://arduino.esp8266.com/stable/package_esp8266com_index.json
