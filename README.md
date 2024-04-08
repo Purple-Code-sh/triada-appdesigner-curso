@@ -1,0 +1,1 @@
+Para usar el codigo de matlab, solo descarga el archivo llamado app10. Una vez que este en tu computadora, abre matlab y desde el programa busca el archivo que descargaste y trata de abrirlo. Eso basta para que se abra la aplicacion y puedas usarla
