@@ -13,3 +13,6 @@
 
 * Despues abre el archivo .ino que se llama i2c-sensorCode, desde el ArduinoIDE.
 * Subelo a la esp32 asegurandote de seleccionar la placa ESP32 Dev Module y el puerto serial correcto.
+
+# Curso disponible en
+https://youtube.com/playlist?list=PLnmRIjC4z1lhNqDKj5e4MnRCv2mOn9Fg9&si=WM3LoW_YN6_0T1x0
