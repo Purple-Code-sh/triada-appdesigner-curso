@@ -1,5 +1,5 @@
 # Curso disponible en
-Parte 1: https://youtube.com/playlist?list=PLnmRIjC4z1lhNqDKj5e4MnRCv2mOn9Fg9&si=WM3LoW_YN6_0T1x0
+Parte 1: https://www.youtube.com/playlist?list=PLnmRIjC4z1lhNqDKj5e4MnRCv2mOn9Fg9
 
 Parte 2: https://www.youtube.com/playlist?list=PLnmRIjC4z1liM3RaWhJkh4y2-TA6nHbYl
 
